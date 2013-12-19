@@ -5,9 +5,9 @@ Outil de gestion des formations de l' Institut de pédagogie universitaire et de
 
 Requiert Xataface pour fonctionner.
 
-@copyright   2001-2012 Universite catholique de Louvain (UCL)
-@author      Frederic Minne <frederic.minne@uclouvain.be>
-@license     http://www.fsf.org/licensing/licenses/agpl-3.0.html
+ @copyright   2001-2012 Universite catholique de Louvain (UCL)
+ @author      Frederic Minne <frederic.minne@uclouvain.be>
+ @license     http://www.fsf.org/licensing/licenses/agpl-3.0.html
               GNU AFFERO GENERAL PUBLIC LICENSE version 3
 
 This application is build using a framework specific for creating application using a Xataface backend.
